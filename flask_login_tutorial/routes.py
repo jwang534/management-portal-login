@@ -17,7 +17,7 @@ def dashboard():
         title="Flask-Login Tutorial",
         template="dashboard-template",
         current_user=current_user,
-        body="You are now logged in!",
+        body="Welcome to LockDown Security!",
     )
 
 
