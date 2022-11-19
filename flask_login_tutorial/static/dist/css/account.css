@@ -26,7 +26,7 @@
 }
 .signup-page .form-wrapper .logo img,
 .login-page .form-wrapper .logo img {
-  width: 100px;
+  width: 200px;
   margin: auto;
 }
 @media (max-width: 600px) {
